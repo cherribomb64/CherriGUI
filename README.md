@@ -2,7 +2,8 @@ Here are all the custom "cherri" commands!
 cherri clear : clears the command history, cleaning up the gui for you!
 cherri kill : closes the window.
 cherri joke : prints a random joke.
+cherri help : displays the tutorial.
 
-(note, you can also use "cherri cls" to clean up the gui.)
+Use "ps:" as a prefix to use powershell.
 
-enjoy! -cherri
+Have fun :D - cherri
